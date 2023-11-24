@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bishwas Dahal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwas-10&label=Profile%20views&color=0e75b6&style=flat" alt="bishwas-10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwas-10" alt="bishwas-10" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS, Tanstack Query**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 👨‍💻 All of my projects are available at [https://bishwas-dahal.netlify.app/](https://bishwas-dahal.netlify.app/)
 
