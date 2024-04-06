@@ -37,7 +37,7 @@ I'm a full-stack developer with a keen eye for detail and a love for crafting se
 
 ### 📊 Stats
 
-![Bishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwas-10&show_icons=true&theme=gruvbox)
+![Bishwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwas-10&show_icons=true&theme=gruvbox)
 
 #
 
