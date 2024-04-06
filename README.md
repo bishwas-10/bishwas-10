@@ -4,13 +4,6 @@
 
 I'm a full-stack developer with a keen eye for detail and a love for crafting seamless digital experiences, I specialize in building dynamic and responsive web applications from concept to deployment. Whether it's architecting scalable backend systems or crafting intuitive user interfaces, I thrive on transforming ideas into reality through clean, efficient code.
 
-   <p align="left">
-      <a href="https://github.com/bishwas-10?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bishwas-10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/bishwas-10?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bishwas-10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
@@ -35,11 +28,6 @@ I'm a full-stack developer with a keen eye for detail and a love for crafting se
 
 #
 
-### 📊 Stats
-
-![Bishwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwas-10&show_icons=true&theme=gruvbox)
-
-#
 
 <details>
  <summary><h3>👨‍💻 Bishwas's Coding Journey</h3></summary>
