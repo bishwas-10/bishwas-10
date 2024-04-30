@@ -2,7 +2,7 @@
 
 **`Developer/Creator`**
 
-I'm a full-stack developer with a keen eye for detail and a love for crafting seamless digital experiences, I specialize in building dynamic and responsive web applications from concept to deployment. Whether it's architecting scalable backend systems or crafting intuitive user interfaces, I thrive on transforming ideas into reality through clean, efficient code.
+I'm a developer with a keen eye for detail and a love for crafting seamless digital experiences, I specialize in building dynamic and responsive web applications from concept to deployment. Whether it's architecting scalable backend systems or crafting intuitive user interfaces, I thrive on transforming ideas into reality through clean, efficient code.
 
 ---
 
