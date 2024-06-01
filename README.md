@@ -1,7 +1,5 @@
 # 🏄‍♂️ Bishwas Dahal
 
-**`Developer/Creator`**
-
 I'm a developer.
 
 ---
