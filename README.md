@@ -1,6 +1,6 @@
 # 🏄‍♂️ Bishwas Dahal
 
-I'm a developer.
+finder of new ways that don't work.
 
 ---
 
