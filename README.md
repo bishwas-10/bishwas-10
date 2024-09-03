@@ -1,6 +1,6 @@
 # 🏄‍♂️ Bishwas Dahal
 
-finder of new ways that don't work.
+making, breaking, experimenting, developing and learning things.
 
 ---
 
